@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دفترچه یادداشت</string>
+    <string name="no_notes_available">هیچ متنی وجود ندارد!</string>
+    <string name="add_note">اضافه کردن متن</string>
+    <string name="type_your_title">عنوان متن</string>
+    <string name="type_something">چیزی بنویسید…</string>
+    <string name="apply">"ذخیره "</string>
+    <string name="note_title">عنوان متن</string>
+    <string name="note_body">شرح متن</string>
+    <string name="search">جست و جو</string>
+    <string name="save">ذخیره</string>
+    <string name="delete">حذف</string>
+    <string name="successfully_saved">متن با موفقیت ذخیره شد</string>
+    <string name="enter_title">لطفا عنوانی برای متن بنویسید</string>
+    <string name="successfully_update">متن با موفقیت به‌ روز شد</string>
+    <string name="delete_note">حذف متن</string>
+    <string name="ask_for_delete">آیا مطمعن هستید می‌خواهید متن را حذف کنید؟</string>
+    <string name="cancel">لغو کردن</string>
+    <string name="ui">صفحه نمایش</string>
+    <string name="dark_mode">حالت تاریک</string>
+    <string name="dark_mode_def_value">پیش فرض سیستم</string>
+    <string name="settings">تنظیمات</string>
+    <string name="dark">تاریک</string>
+    <string name="light">روشن</string>
+    <string name="follow_system">پیش فرض سیستم</string>
+</resources>
