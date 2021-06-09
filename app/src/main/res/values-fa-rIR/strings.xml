@@ -24,4 +24,6 @@
     <string name="dark">تاریک</string>
     <string name="light">روشن</string>
     <string name="follow_system">پیش فرض سیستم</string>
+    <string name="apperance">تنظمات ظاهری</string>
+    <string name="text_size">اندازه متن</string>
 </resources>

@@ -16,6 +16,7 @@
     <string name="delete_note">Delete Note</string>
     <string name="ask_for_delete">Are you sure want to delete this note?</string>
     <string name="cancel">Cancel</string>
+
     <!-- Preference Titles -->
     <string name="ui">UI</string>
     <string name="dark_mode">Dark Mode</string>
@@ -24,5 +25,13 @@
     <string name="dark">Dark</string>
     <string name="light">Light</string>
     <string name="follow_system">Follow System</string>
+
+    <!-- Preference Titles -->
+    <string name="apperance">Apperance</string>
+
+    <!-- Text Preferences -->
+    <string name="text_size">Size</string>
+
+
 
 </resources>

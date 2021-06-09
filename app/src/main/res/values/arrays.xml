@@ -1,0 +1,27 @@
+<resources>
+    <!-- Font Preference -->
+    <string-array name="text_entries">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Big</item>
+    </string-array>
+
+    <string-array name="size_values">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Big</item>
+    </string-array>
+
+    <!-- Dark Mode ListPreference -->
+    <string-array name="dark_mode_entries">
+        <item>@string/follow_system</item>
+        <item>@string/light</item>
+        <item>@string/dark</item>
+    </string-array>
+
+    <string-array name="dark_mode_values">
+        <item>MODE_NIGHT_FOLLOW_SYSTEM</item>
+        <item>MODE_NIGHT_NO</item>
+        <item>MODE_NIGHT_YES</item>
+    </string-array>
+</resources>

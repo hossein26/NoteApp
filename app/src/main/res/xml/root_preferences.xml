@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/apperance">
+
+        <ListPreference
+            app:defaultValue="Medium"
+            app:entries="@array/text_entries"
+            app:entryValues="@array/size_values"
+            app:key="size"
+            app:title="@string/text_size"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="@string/dark_mode_def_value"
+            app:entries="@array/dark_mode_entries"
+            app:entryValues="@array/dark_mode_values"
+            app:key="@string/dark_mode"
+            app:title="@string/dark_mode"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>

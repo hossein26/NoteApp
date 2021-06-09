@@ -85,6 +85,17 @@ class HomeFragment : Fragment(R.layout.fragment_home),
 
     }
 
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            R.id.menu_settings -> {
+                view?.findNavController()?.navigate(
+                    R.id.action_homeFragment_to_settingsFragment
+                )
+            }
+        }
+        return super.onOptionsItemSelected(item)
+    }
+
 
     override fun onQueryTextSubmit(query: String?): Boolean {
         /*if (query != null) {

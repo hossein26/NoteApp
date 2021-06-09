@@ -2,10 +2,7 @@ package com.hossein.noteapp.viewmodel
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
-import androidx.lifecycle.asFlow
-import androidx.lifecycle.asLiveData
 import androidx.lifecycle.viewModelScope
-import com.hossein.noteapp.db.NoteDao
 import com.hossein.noteapp.model.Note
 import com.hossein.noteapp.repository.NoteRepository
 import kotlinx.coroutines.launch
